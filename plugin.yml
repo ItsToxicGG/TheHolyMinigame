@@ -1,0 +1,5 @@
+name: TheUnHoly
+description: 18 Survivors, 1 Demon, 1 Holy, The demons Job is to kill all the survivors before the holy man kills him and the survivors win
+version: 0.1-InDev
+main: ToxicGG\TheUnHoly\Holy
+author: JustToxic<3
