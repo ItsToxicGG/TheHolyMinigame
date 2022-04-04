@@ -4,7 +4,7 @@ namespace ToxicGG\TheUnHoly;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\player\Player;
-use ToxicGG\TheUnHoly\Commands\HolyCommand;
+use ToxicGG\TheUnHoly\Commands\HolyCommand; // Will be worked on!
 
 class Holy extends PluginBase{
 
